@@ -27,7 +27,7 @@ Newsletter API Configuration File
 $CONFIG = Array();
 
 $CONFIG['APPLICATION'] = Array();
-$CONFIG['APPLICATION']['DEFAULT_FROM'] = 'contato@devsdmf.net';
+$CONFIG['APPLICATION']['DEFAULT_FROM'] = 'developer@localhost';
 $CONFIG['APPLICATION']['DEFAULT_CC'] = '';
 $CONFIG['APPLICATION']['DEFAULT_FORMAT'] = 'HTML';
 $CONFIG['APPLICATION']['DEFAULT_PRIORITY'] = '1';
