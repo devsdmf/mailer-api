@@ -1,4 +1,6 @@
-Newsletter PHP API
+Newsletter PHP API [DEPRECATED]
+
+Moved to: https://github.com/devsdmf/awmailer
 
 Version: 1.0.1
 
